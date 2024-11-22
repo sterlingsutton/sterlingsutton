@@ -1,7 +1,11 @@
- ## I know:
+ ## Things I know:
 - Java
 - Python
 
-## I'm currently learning:
+## Things I'm learning more about:
 - Django
-- Backend web development/ network infrastructure
+- Backend web development
+- Network infrastructure
+- x86 Assembly (NASM)
+- C/C++
+- Operating system development
