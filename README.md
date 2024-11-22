@@ -1,7 +1,7 @@
-I know:
+ ## I know:
 - Java
 - Python
 
-I'm learning:
+## I'm learning:
 - Django
 - Backend web development/ network infrastructure
