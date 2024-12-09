@@ -1,11 +1,9 @@
- ## Things I know:
+ ## Things I know well:
 - Java
 - Python
 
 ## Things I'm learning more about:
 - Django
+- Rust
+- Yew
 - Backend web development
-- Network infrastructure
-- x86 Assembly (NASM)
-- C/C++
-- Operating system development
